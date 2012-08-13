@@ -7,13 +7,17 @@ INSTALL
 ========
 
 Download NotesCmd.py and run it in console
-python ./NotesCmd.py
+
+>python ./NotesCmd.py
 
 USAGE
 ========
 
-R Read lines
-A Add lines
-D Delete lines
-Q Quit 
+>R Read lines
+
+>A Add lines
+
+>D Delete lines
+
+>Q Quit 
 
