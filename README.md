@@ -25,7 +25,10 @@ NOTE FILE SYNTAX
 =================
 
 > [1] Note
+
 > [2] Note2
+
 > @ comment
+
 > [3] note3
 
